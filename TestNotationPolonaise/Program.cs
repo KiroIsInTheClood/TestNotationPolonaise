@@ -1,9 +1,4 @@
-﻿/**
- * Application de test de la fonction 'Polonaise'
- * author : Emds
- * date : 20/06/2020
- */
-using System;
+﻿using System;
 
 namespace TestNotationPolonaise
 {
